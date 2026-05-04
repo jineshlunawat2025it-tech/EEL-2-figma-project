@@ -1,1 +1,1 @@
-# EEL-2-figma-project
+# Social Media Platform Concept
